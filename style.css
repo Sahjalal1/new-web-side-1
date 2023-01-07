@@ -154,7 +154,7 @@
     width: 100%;
     height: 577px;
     left: 0px;
-    top: 2440.96px;
+    top: 2564.96px;
     background: #151414;
 }
 .janina{
@@ -179,10 +179,26 @@
 .sub{
     float: right;
     color: white;
-    margin-right: 62px;
+    margin-right: 400px;
+    margin-top: 141px;
 }
-
+.sub h2{
+    font-size: 33px;
+}
+.sub input{
+    border: 1px solid white;
+    background: black;
+    border-radius: 10px;
+    border-radius: 10px;
+    padding: 16px 25px;
+}
 .sub button{
-    
+    display: inherit;
     margin-top: 16px;
+    position: absolute;
+    width: 122px;
+    height: 44px;
+    background: #005FAC;
+    border-radius: 7px;
+    margin-top: 30px;
 }
