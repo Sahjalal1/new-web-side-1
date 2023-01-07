@@ -1,0 +1,188 @@
+*{
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+#header{
+    background-image: url("./images/banner/banne.jpg");
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 0px;
+}
+.header-child{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 397px;
+    top: 110px;
+    color: aliceblue;
+
+}
+.header-3 h1{
+    font-size: 62px;
+    margin-bottom: 9px;
+}
+.header-3 p{
+    margin-top: 0px;
+    font-size: 17px;
+}
+.header-3 button{
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 30px;
+    border-radius: 3px;
+    border: none;
+}
+.section{
+    background-color: #FFFFFF;
+    margin-top: 0px;
+}
+.article{  
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 254px;
+    top:797px;
+}
+.img{
+    top: 0px;
+    position: absolute;
+    width: 569px;
+    height: 723.3px; 
+    left: 150px;
+
+}
+.article-1{
+    
+    position: absolute;
+    width: 419px;
+    height: 421px;
+    left: 806px;
+    top: 178px;
+    
+}
+.article-1 h1{
+    font-size: 50px;
+    margin-bottom:0px;
+
+}
+.article-1 p{
+    margin-top: 31px;
+    margin-bottom: 25px;
+
+}
+.article-1 span {
+    display:block;
+    margin-bottom: 8px;
+
+}
+.article-1  img{
+    width: 14px;
+    
+}
+.my-plans {
+    position: absolute;
+    text-align: center;
+    top: 1603px;
+    margin-left: 327px;
+    
+}
+.my-plans1{
+    
+    width: 1277px;
+    height: 202.96px;
+    text-align: center;
+}
+
+.hote-cayna{
+    font-size: 30px;
+    margin-bottom: 79px;
+    padding-left: 67px;
+}
+.plan1 img{
+    display: inline-block;
+}
+.plans-sort1{
+    display: inline-block;
+    
+
+}
+.plans-sort2{
+    display: inline-block;
+    padding-left: 120px;
+}
+.plans-sort3{
+    display: inline-block;
+    padding-left: 120px;
+}
+.plans-sort4{
+    display: inline-block;
+    padding-left: 120px;
+}
+.call-now{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 400px;
+    top: 2140.96px;
+    background: linear-gradient(90deg, #117dd4 0%, rgba(0, 95, 172, 0) 100%),url("./images/watch.png");
+}
+.call-now h1{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    width: 459px;
+    height: 94px;
+    margin-top: 59px;
+    margin-left: 64px;
+}
+.call-now button{
+    width: 160px;
+    height: 64px;
+    margin-left: 64px;
+    border: none;
+    border-radius: 3px;
+    font-size: 23px;
+}
+.atai{
+    position: absolute;
+    width: 100%;
+    height: 577px;
+    left: 0px;
+    top: 2440.96px;
+    background: #151414;
+}
+.janina{
+    
+    position: absolute;
+    width: 485px;
+    height: 317px;
+    left: 396px;
+    color: white;
+    top: 121px;
+}
+.janina span{
+    display: block;
+    margin-top: 10px;
+}
+.janina h1{
+    font-size: 46px;
+}
+.janina img{
+    margin-top: 25px;
+}
+.sub{
+    float: right;
+    color: white;
+    margin-right: 62px;
+}
+
+.sub button{
+    
+    margin-top: 16px;
+}
